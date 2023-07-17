@@ -11,7 +11,7 @@ Conto com a participação de todos vocês para tornar essa experiência única 
 Links Importantes: 
 - Playlist do curso: https://www.youtube.com/playlist?list=PLfvOpw8k80WqOtLKUC_awmsn3MQgZW7KT
 - Padlet do projeto: https://padlet.com/danilofilitto/faroeste-zumbi-2r70dmj7avyb02d5
-- Criar uma conto do Padlet: padlet.com/referrals/danilofilitto
+- Criar uma conta no Padlet: padlet.com/referrals/danilofilitto
 - Github: https://github.com/dfilitto/UnityFaroesteZumbi
 - Curso Desenvolvedor de jogos 2D e 3D: http://desenvolvedordejogos.dfilitto.com.br/
 - Curso de pixel art: https://www.youtube.com/playlist?list=PLfvOpw8k80WpyfiXTvd2OO-K7v-LyefoD
