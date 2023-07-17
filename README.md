@@ -1,5 +1,6 @@
-# UnityFaroesteZumbi
-UnityFaroesteZumbi
+![](https://github.com/dfilitto/UnityFaroesteZumbi/blob/main/Faroeste%20Zumbi.jpg)
+
+# Faroeste Zumbi
 
 Neste emocionante curso, vocês terão a oportunidade de aprender a criar um jogo de tiro inspirado no clássico Sunset Riders, utilizando a poderosa Unity Engine.
 
@@ -8,6 +9,7 @@ Acompanhem de perto cada etapa da construção, tirem suas dúvidas em tempo rea
 Conto com a participação de todos vocês para tornar essa experiência única e memorável. Não percam!
 
 Links Importantes: 
+- Playlist do curso: https://www.youtube.com/playlist?list=PLfvOpw8k80WqOtLKUC_awmsn3MQgZW7KT
 - Padlet do projeto: https://padlet.com/danilofilitto/faroeste-zumbi-2r70dmj7avyb02d5
 - Criar uma conto do Padlet: padlet.com/referrals/danilofilitto
 - Github: https://github.com/dfilitto/UnityFaroesteZumbi
