@@ -2,13 +2,9 @@
 
 # Faroeste Zumbi
 
-Neste emocionante curso, vocês terão a oportunidade de aprender a criar um jogo de tiro inspirado no clássico Sunset Riders, utilizando a poderosa Unity Engine.
+Aprenda a criar o jogo Faroeste Zumbi. Neste jogo o jogador tem como objetivo eliminar todos os zumbis com seus disparos certeiros evitando ser atingido pelos zumbis. Com o passar do tempo os zumbis ficam mais espertos e mais rápidos, fazendo com que os mesmos consigam reaparecer mais rápido no jogo.
 
-Acompanhem de perto cada etapa da construção, tirem suas dúvidas em tempo real e contribuam para o desenvolvimento desse incrível jogo.
-
-Conto com a participação de todos vocês para tornar essa experiência única e memorável. Não percam!
-
-Links Importantes: 
+## Links Importantes: 
 - Playlist do curso: [Construct 3 - Construindo um jogo do zero](https://www.youtube.com/playlist?list=PLfvOpw8k80WqKh-Tb7Z8j6N05Otj6LHCl)
 - Padlet do projeto: [Brainstorming do jogo](https://padlet.com/danilofilitto/faroeste-zumbi-2r70dmj7avyb02d5)
 - Criar uma conta no Padlet: [Clique aqui para criar uma conta no Padlet](https://padlet.com/referrals/danilofilitto)
