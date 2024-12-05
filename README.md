@@ -1,4 +1,4 @@
-![](https://github.com/dfilitto/UnityFaroesteZumbi/blob/main/Faroeste%20Zumbi.jpg)
+![](https://github.com/dfilitto/Construct3FaroesteZumbi/blob/main/CONSTRUCT%203%20Construindo%20um%20jogo%20do%20zero.jpg?raw=true)
 
 # Faroeste Zumbi
 
